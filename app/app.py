@@ -236,7 +236,7 @@ DESCRIPTION = """
 
 It can be used to restore your **old photos** or improve **AI-generated faces**.
 
-<b style='color:red'>Note:</b> Output images are temporarily stored in the `app/temp` folder. Dependent model files (like face detectors) may be stored in `app/weights`. Download results you want to keep.
+<b style='color:red'>Note:</b> Output images are temporarily stored in the `app/temp` folder. Download results you want to keep.
 
 To use it, simply upload your image, select the GFPGAN version and desired rescaling factor, then click **Submit**.
 """ # Updated description slightly
