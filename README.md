@@ -1,4 +1,4 @@
-# Portable GFPGAN - Zero-Shot Launcher for Windows
+# Portable GFPGAN (FACE RESTORATION TECHNOLOGY) - Zero-Shot Launcher for Windows
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square)](https://www.microsoft.com/en-us/windows/)
 
@@ -19,7 +19,7 @@ The key goal of this project is **ease of use**. You don't need to manually inst
 *   **🖥️ User-Friendly Interface:** Uses Gradio to provide an easy-to-use web interface for uploading images and selecting options.
 *   **🧠 GPU Acceleration:** Leverages NVIDIA GPUs if available and correctly configured for significantly faster processing.
 *   ** fallback:** Runs perfectly fine (though slower) on systems without a compatible NVIDIA GPU.
-*   **🧹 Clean:** Keeps all downloaded packages, models, and caches within its own folder structure (`cache/`, `app/models/`, `app/weights/`).
+*   **🧹 Clean:** Keeps all downloaded packages, models, and caches within its own folder structure (`cache/`, `app/models/`, `gfpgan/weights/`).
 
 ## Requirements
 
