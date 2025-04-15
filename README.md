@@ -1,4 +1,4 @@
-# Portable GFPGAN - Zero-Shot Launcher for Windows
+# Portable GFPGAN (FACE RESTORATION TECHNOLOGY) - Zero-Shot Launcher for Windows
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square)](https://www.microsoft.com/en-us/windows/)
 
