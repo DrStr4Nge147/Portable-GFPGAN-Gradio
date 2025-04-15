@@ -1,6 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
+title PORTABLE GFPGAN Process (Keep this open to use the app)
 REM Get the directory where this batch file is located
 set "SCRIPT_DIR=%~dp0"
 set "SCRIPT_DIR=%SCRIPT_DIR:~0,-1%"
